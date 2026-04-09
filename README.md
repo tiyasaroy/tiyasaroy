@@ -1,16 +1,15 @@
-## Hi there 👋
+# Tiyasa Roy
+### Data Analyst | Data Science Enthusiast | Hyderabad
 
-<!--
-**tiyasaroy/tiyasaroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Welcome to my GitHub profile!**
 
-Here are some ideas to get you started:
+I'm Tiyasa Roy, a Data Analyst with 5+ years of experience leveraging data for insights and business decisions. Passionate about data science and ML—currently building pipelines, models, and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+**Languages**: Python (Pandas, NumPy, Matplotlib and Scikit-Learn), SQL  
+**BI/Viz**: Power BI, Tableau, Looker Studio  
+**Data**: BigQuery, Google Analytics, ETL [file:42]
+
+## 📫 Contact
+- 📧 [email](misstiyasaroy@gmail.com)
+- 🔗 [LinkedIn]([https://linkedin.com/in/tiyasa-roy](https://www.linkedin.com/in/tiyasa-roy-024906110/))
