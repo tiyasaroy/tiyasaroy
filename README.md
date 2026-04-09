@@ -11,5 +11,5 @@ I'm Tiyasa Roy, a Data Analyst with 5+ years of experience leveraging data for i
 **Data**: BigQuery, Google Analytics, ETL [file:42]
 
 ## 📫 Contact
-- 📧 [email](misstiyasaroy@gmail.com)
+- 📧 [Email](misstiyasaroy@gmail.com)
 - 🔗 [LinkedIn]([https://linkedin.com/in/tiyasa-roy](https://www.linkedin.com/in/tiyasa-roy-024906110/))
