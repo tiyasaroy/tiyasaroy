@@ -6,7 +6,7 @@
 I'm Tiyasa Roy, a Data Analyst with 5+ years of experience leveraging data for insights and business decisions. Passionate about data science and ML—currently building pipelines, models, and dashboards.
 
 ## 🛠️ Tools
-**Languages**: Python (Pandas, NumPy, Matplotlib and Scikit-Learn), SQL  
+**Languages**: Python & Machine learning, SQL  
 **BI/Viz**: Power BI, Tableau, Looker Studio  
 **Data**: BigQuery, Google Analytics, ETL 
 
