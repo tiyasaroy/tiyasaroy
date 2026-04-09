@@ -8,7 +8,7 @@ I'm Tiyasa Roy, a Data Analyst with 5+ years of experience leveraging data for i
 ## 🛠️ Tools
 **Languages**: Python (Pandas, NumPy, Matplotlib and Scikit-Learn), SQL  
 **BI/Viz**: Power BI, Tableau, Looker Studio  
-**Data**: BigQuery, Google Analytics, ETL [file:42]
+**Data**: BigQuery, Google Analytics, ETL 
 
 ## 📫 Contact
 - 📧 [Email](misstiyasaroy@gmail.com)
