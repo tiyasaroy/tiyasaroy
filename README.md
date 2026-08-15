@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 - 💻 **Programming** - Python, SQL, and data manipulation libraries
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL\
+- **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 - **Tools**: Jupyter Notebook, Git, Excel, Tableau/Power BI
 - **Databases**: MySQL, PostgreSQL
