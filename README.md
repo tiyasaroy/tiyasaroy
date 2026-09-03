@@ -16,11 +16,10 @@ Welcome to my GitHub! I'm passionate about transforming data into actionable ins
 - **Tools**: Jupyter Notebook, Git, Excel, Tableau/Power BI
 - **Databases**: MySQL, PostgreSQL
 
-## 📚 Featured Projects
-- *Coming soon!* Check out my repositories for end-to-end data science projects
 
 ## 🌱 Currently Learning
 - Advanced machine learning techniques
+- Natural Language Processing
 - Cloud data platforms
 - Advanced statistical analysis
 
