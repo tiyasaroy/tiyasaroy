@@ -33,8 +33,7 @@
 
 ## Toolbox
 
-**Languages:** Python, SQL
-
+- **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
 - **Tools:** Jupyter Notebook, Git, Excel, Tableau / Power BI, BigQuery
 - **Databases:** MySQL, PostgreSQL
