@@ -8,6 +8,7 @@ Position the profile around combined analytics and data-science work, with a con
 
 - Replaced the original README with an Analytics + Data Science portfolio introduction.
 - Added `assets/data-to-report-to-model.gif`, a 24-frame looping hero animation that visualizes data flowing into reports, models, and decisions.
+- Reworked the header into a compact two-column introduction and replaced the visible hero with the user-selected hosted data-points GIF.
 - Corrected the email link to a `mailto:` link.
 - Added short, evidence-based descriptions for the two featured completed projects.
 - Preserved the exact original README in `profile-history/README-before-2026-09-19.md`.

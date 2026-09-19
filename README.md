@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="./assets/data-to-report-to-model.gif" alt="Animated workflow: data becomes reports, models, and decisions" width="100%" />
-</p>
-
-# Hi, I'm Tiyasa Roy 👋
-
-**Data Analyst & Data Scientist** building analytics, machine-learning, and reproducible data products that turn questions into decisions.
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <h1>Hi, I'm Tiyasa Roy 👋</h1>
+      <p><strong>Data Analyst &amp; Data Scientist</strong> building analytics, machine-learning, and reproducible data products that turn questions into decisions.</p>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" alt="Animated data-points visualization" width="280" />
+    </td>
+  </tr>
+</table>
 
 ## What I work with
 
