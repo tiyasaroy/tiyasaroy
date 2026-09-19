@@ -18,12 +18,13 @@
 - **Data Products:** Python services, Transparent workflows, and Evidence-backed Reporting
 
 
-## Toolbox
+### 🛠️ Toolbox
 
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
-- **Tools:** Jupyter Notebook, Git, Excel, Tableau / Power BI, BigQuery
-- **Databases:** MySQL, PostgreSQL
+* **Languages:** Python, SQL
+* **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Matplotlib, Seaborn, Plotly
+* **BI & Visualization:** Tableau, Power BI, Looker Studio, Metabase, Superset
+* **Databases & Data Warehousing:** PostgreSQL, ClickHouse, MySQL, DuckDB, BigQuery
+* **Tools, Platforms & AI:** Jupyter Notebook, Git, PLX / Plex Suite, Google Analytics, Google Tag Manager, Buganizer, LangChain, LangGraph
 
 ## Featured work
 
