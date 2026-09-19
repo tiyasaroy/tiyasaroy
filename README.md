@@ -1,33 +1,31 @@
+<p align="center">
+  <img src="./assets/data-to-report-to-model.gif" alt="Animated workflow: data becomes reports, models, and decisions" width="100%" />
+</p>
+
 # Hi, I'm Tiyasa Roy 👋
 
-**Data Scientist | Data Analyst | Analytics Enthusiast**
+**Data Analyst & Data Scientist** building analytics, machine-learning, and reproducible data products that turn questions into decisions.
 
-Welcome to my GitHub! I'm passionate about transforming data into actionable insights and building predictive models that drive business decisions.
+## What I work with
 
-## 🎯 What I Do
-- 📊 **Data Analysis & Visualization** - Exploratory data analysis, statistical analysis, and creating compelling visualizations
-- 🤖 **Machine Learning** - Building predictive models and classification systems
-- 📈 **Data Pipeline Development** - ETL processes and data engineering
-- 💻 **Programming** - Python, SQL, and data manipulation libraries
+- **Analytics:** exploratory analysis, SQL, data quality, visual storytelling, and business recommendations
+- **Data Science:** predictive modelling, model comparison, evaluation, and interpretation
+- **Data Products:** Python services, transparent workflows, and evidence-backed reporting
 
-## 🛠️ Tech Stack
-- **Languages**: Python, SQL
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
-- **Tools**: Jupyter Notebook, Git, Excel, Tableau/Power BI
-- **Databases**: MySQL, PostgreSQL
+## Featured work
 
+| Project | Focus | What it demonstrates |
+| --- | --- | --- |
+| [Multi-Agent Marketing Data Scientist](https://github.com/tiyasaroy/multi-agent-marketing-data-scientist) | Analytics + Data Science | Reproducible marketing data, deterministic KPI and root-cause analysis, FastAPI, an interactive dashboard, and evaluation coverage. |
+| [AI-Driven Global Market Intelligence](https://github.com/tiyasaroy/AI-Driven-Global-Market-Intelligence--ML-Project) | Machine Learning | Market-trend modelling notebook with model comparison, validation, XGBoost tuning, and SHAP-based interpretation. |
 
-## 🌱 Currently Learning
-- Advanced machine learning techniques
-- Natural Language Processing
-- Cloud data platforms
-- Advanced statistical analysis
+## Toolbox
 
-## 📫 Let's Connect!
-- **LinkedIn**: [Link](https://www.linkedin.com/in/tiyasa-roy-024906110/)
-- **Email**: [email](misstiyasaroy@gmail.com)
-- **Portfolio**: [Git link](https://github.com/tiyasaroy)
+`Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn` · `Plotly` · `BigQuery` · `Tableau / Power BI` · `MySQL` · `PostgreSQL`
 
----
+## Connect
 
-*Open to collaborations on data science projects and always happy to discuss data-driven solutions!*
+- [LinkedIn](https://www.linkedin.com/in/tiyasa-roy-024906110/)
+- [Email](mailto:misstiyasaroy@gmail.com)
+
+*Open to analytical and data-science collaborations where clear evidence and practical decisions matter.*
