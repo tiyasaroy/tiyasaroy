@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <td width="50%" valign="middle">
-<h3>Hi there! I'm a Data Professional 👋</h3>
+    <td width="60%" valign="middle">
+<h1>Hi there! I'm a Data Professional 👋</h1>
 
 <p>Driven by turning complex data into clear business decisions, I bring 6 years of experience across analytics, BI workflows, and marketing performance reporting.</p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" alt="Animated data-points visualization" width="280" />
+    <td width="40%" align="center">
+      <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" alt="Animated data-points visualization" width="380" />
     </td>
   </tr>
 </table>
