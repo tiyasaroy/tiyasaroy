@@ -1,14 +1,16 @@
 <table>
   <tr>
     <td width="62%" valign="middle">
-### Hi there! I'm a Data Analyst & Data Professional 👋
+<h3>Hi there! I'm a Data Analyst & Data Professional 👋</h3>
 
-Driven by turning complex data into clear business decisions, I bring 6 years of experience across analytics, BI workflows, and marketing performance reporting. 
+<p>Driven by turning complex data into clear business decisions, I bring 6 years of experience across analytics, BI workflows, and marketing performance reporting.</p>
 
-**What I do:**
-* Build reproducible, tested data products for performance advertising.
-* Develop end-to-end solutions using **Python, SQL, automated reporting, and BI dashboards**.
-* Conduct deep-dive diagnostics across **Google/Meta campaign analytics, SEO, and ASO**.
+<p><strong>What I do:</strong></p>
+<ul>
+  <li>Build reproducible, tested data products for performance advertising.</li>
+  <li>Develop end-to-end solutions using <strong>Python, SQL, automated reporting, and BI dashboards</strong>.</li>
+  <li>Conduct deep-dive diagnostics across <strong>Google/Meta campaign analytics, SEO, and ASO</strong>.</li>
+</ul>
     </td>
     <td width="38%" align="center">
       <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00783b43b2e53bfc4562_60d354d11e28ba37b767f933_Data%2520points%2520(1).gif" alt="Animated data-points visualization" width="280" />
