@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="62%" valign="middle">
-<h3>Hi there! I'm a Data Analyst & Data Professional 👋</h3>
+<h3>Hi there! I'm a Data Professional 👋</h3>
 
 <p>Driven by turning complex data into clear business decisions, I bring 6 years of experience across analytics, BI workflows, and marketing performance reporting.</p>
 
