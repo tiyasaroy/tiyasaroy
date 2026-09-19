@@ -38,7 +38,7 @@
 
 | Project | Focus | What it demonstrates |
 | --- | --- | --- |
-| [Multi-Agent Marketing Data Scientist](https://github.com/tiyasaroy/multi-agent-marketing-data-scientist) | Analytics + Data Science | Reproducible marketing data, deterministic KPI and root-cause analysis, FastAPI, an interactive dashboard, and evaluation coverage. |
+| [Multi-Agent Marketing Data Scientist](https://github.com/tiyasaroy/multi-agent-marketing-data-scientist) | Analytics + Data Science | Reproducible marketing data, deterministic KPI and root-cause analysis, an interactive dashboard, and evaluation coverage. |
 | [AI-Driven Global Market Intelligence](https://github.com/tiyasaroy/AI-Driven-Global-Market-Intelligence--ML-Project) | Machine Learning | Market-trend modelling notebook with model comparison, validation, XGBoost tuning, and SHAP-based interpretation. |
 | [Amazon Sales 2025](https://github.com/tiyasaroy/Amazon-Sales-2025) | Exploratory Data Analysis | Product-catalogue analysis covering data cleaning, pricing and discount patterns, customer engagement, outliers, and business recommendations. |
 
