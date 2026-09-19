@@ -21,7 +21,11 @@
 
 ## Toolbox
 
-`Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn` · `Plotly` · `BigQuery` · `Tableau / Power BI` · `MySQL` · `PostgreSQL`
+**Languages:** Python, SQL
+
+- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
+- **Tools:** Jupyter Notebook, Git, Excel, Tableau / Power BI, BigQuery
+- **Databases:** MySQL, PostgreSQL
 
 ## Connect
 
